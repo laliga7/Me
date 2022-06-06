@@ -30,7 +30,7 @@ function Home() {
                 <li className='item'>
                     <h2>Back-End</h2>
                     <span>
-                        NodeJS, .NET, ExpressJS, MySQL, MongoDB, MS SQL
+                        NodeJS, .NET, ExpressJS, MySQL, MongoDB, MS SQL, Azure
                     </span>
                 </li>
                 <li className='item'>
